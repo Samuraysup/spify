@@ -1,0 +1,15 @@
+.test1 {
+    font-weight: 900; /* жирность шрифта */
+}
+
+#test2 {
+    font-style: italic; /* курсивный текст */
+}
+
+.test3 {
+    text-decoration: underline;
+}
+
+.test4 {
+    text-transform: uppercase;
+}
